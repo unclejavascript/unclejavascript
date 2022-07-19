@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @unclejavascript
 - 👀 I’m interested in Javascript
-- Check my official page @javascriptuncle
+- Check my official page [@javascriptuncle](https://github.com/javascriptuncle)
 
 <!---
 unclejavascript/unclejavascript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
